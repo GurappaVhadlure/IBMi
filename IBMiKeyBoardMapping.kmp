@@ -1,0 +1,19 @@
+[Profile]
+ID=KMP
+Version=5
+[KEYBOARD]
+KEY1=[pf16]
+A-KEY18=apl 22
+A-KEY20=apl 28
+A-KEY22=apl 32
+C-KEY31=[edit-copyappend]
+A-KEY35=apl 20
+KEY43=[enter]
+C-KEY46=[edit-undo]
+C-KEY47=[edit-cut]
+C-KEY48=[edit-copy]
+C-KEY49=[edit-paste]
+A-KEY50=apl 30
+C-KEY51=[edit-paste-next]
+C-KEY81=[end field]
+A-KEY81=[end field]
